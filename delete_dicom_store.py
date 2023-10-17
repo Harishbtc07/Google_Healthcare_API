@@ -48,3 +48,5 @@ def delete_dicom_store(config_file):
 
 if __name__ == "__main__":
     delete_dicom_store("config.json")
+
+#Healthcare Api
